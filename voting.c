@@ -13,4 +13,6 @@ int main(){
        printf("not eligible to vote\n");
    }
 
+   printf("end");
+
 }
